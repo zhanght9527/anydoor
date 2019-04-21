@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "pre-commit": [
-    "fix",
     "lint"
   ],
   "devDependencies": {
